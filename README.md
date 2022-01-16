@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aryeh and I'm a Front-End Dev 👋
 
 <!--
 **aribdavid/aribdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
