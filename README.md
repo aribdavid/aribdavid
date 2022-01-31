@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aribdavid&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aribdavid&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aribdavid&layout=compact&theme=tokyonight)
