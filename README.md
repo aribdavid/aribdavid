@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 ## Technologies and Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
@@ -27,5 +31,32 @@ Here are some ideas to get you started:
   <img align="center" alt="Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 </div>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aribdavid&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aribdavid&layout=compact&theme=tokyonight)
+## My Social Network
+<div>
+  <a style="margin-right: 15px;" href="mailto:aryehbdavid@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="./images/gmail.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/aryeh-i-braid-david-770/" target="_blank">
+    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://twitter.com/@aryehbraid" target="_blank">
+    <img width="64px" alt="" src="./images/facebook.png" />
+  </a>
+</div>
+
+## GitHub Stats
+<table>
+<tr><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aribdavid&show_icons=true&theme=tokyonight" />
+  </a>
+
+</td><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribdavid&layout=compact&theme=tokyonight" />
+  </a>
+
+</td></tr>
+</table>
