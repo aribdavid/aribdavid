@@ -29,18 +29,19 @@ Here are some ideas to get you started:
   <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+ 
 </div>
 
 ## My Social Network
 <div>
   <a style="margin-right: 15px;" href="mailto:aryehbdavid@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/>
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/aryeh-i-braid-david-770/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+    <img width="64px" alt="linkedIn" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />
   </a>
   <a style="margin-right: 15px;" href="https://twitter.com/@aryehbraid" target="_blank">
-    <img width="64px" alt="" src="./images/facebook.png" />
+    <img width="64px" alt="twitter" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" />
   </a>
 </div>
 
