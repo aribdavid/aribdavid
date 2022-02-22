@@ -1,5 +1,5 @@
-### Hi there, I'm Aryeh and I'm a Front-End Engineer 👋
-- My goal it's to solve problems using technology.
+### Hi there, I'm Aryeh and I'm a Front-End Engineer from Brazil 👋
+- My goal it's to solve problems using technology. Feel free to look into my projects and feel free to ask me anything! wink
 
 #### 🌱 I’m currently learning:
 - Software Engineering  at Trybe
