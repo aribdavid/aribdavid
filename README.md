@@ -1,7 +1,7 @@
 ### Hi there, I'm Aryeh and I'm a Front-End Dev 👋
 - My goal it's to solve problems using technology.
 
-####🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 - Software Engineering  at Trybe
 
 <!--
