@@ -1,4 +1,8 @@
 ### Hi there, I'm Aryeh and I'm a Front-End Dev 👋
+- My goal it's to solve problems using technology.
+
+####🌱 I’m currently learning:
+- Software Engineering  at Trybe
 
 <!--
 **aribdavid/aribdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
