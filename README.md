@@ -3,6 +3,7 @@
 
 ## 🌱 I’m currently learning:
 - Software Engineering  at Trybe
+- Backend Engineering
 
 <!--
 **aribdavid/aribdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
