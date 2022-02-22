@@ -1,4 +1,4 @@
-### Hi there, I'm Aryeh and I'm a Front-End Dev 👋
+### Hi there, I'm Aryeh and I'm a Front-End Engineer 👋
 - My goal it's to solve problems using technology.
 
 #### 🌱 I’m currently learning:
