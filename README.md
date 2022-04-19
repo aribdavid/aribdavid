@@ -1,4 +1,4 @@
-### Hi there, I'm Aryeh and I'm a Front-End Engineer from Brazil 👋
+### Hi there, I'm Aryeh and I'm a Full-Stack Developer from Brazil 👋
 - My goal it's to solve problems using technology. Feel free to look into my projects or ask me anything!
 
 ### 🌱 I’m currently learning:
