@@ -9,7 +9,7 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS | SQL | Python | Java
+JavaScript | TypeScript | HTML | CSS | SQL | Python | Java 
 
 
 ### Frontend
@@ -24,7 +24,7 @@ Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL
 
 ### Other Tools
 
-AWS | Heroku | Git | Jest | Mocha | Chai | Sinon| GraphQL | Docker | Figma
+AWS | Heroku | Git | Arch Linux | Jest | Mocha | Chai | Sinon | GraphQL | Docker | Figma
 
 ### Spoken Languages
 
