@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning:
 - Software Engineering  at Trybe
-- OOP, Data Structures and Algorithms
+- OOP, Software Architecture and Design Patterns
 
 ## Techstack:
 
