@@ -19,7 +19,7 @@ React | Redux | React Native | Vue.js | Tailwind CSS | Materialize CSS
 
 ### Backend
 
-Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL
+Node.js | Express | Sequelize | MySQL | PostgresSQL | MongoDB | GraphQL
 
 
 ### Other Tools
