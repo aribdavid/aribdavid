@@ -2,29 +2,29 @@
 - My goal it's to solve problems using technology. Feel free to look into my projects or ask me anything!
 
 ### 🌱 I’m currently learning:
-- Software Engineering  at Trybe
-- OOP, Software Architecture and Design Patterns
+
+- Software Architecture and Design Patterns
 
 ## Techstack:
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS | Python | Java 
+JavaScript | TypeScript | Python | Java  | HTML | CSS 
 
 
 ### Frontend
-
-React | Redux | React Native | Vue.js | Tailwind CSS | Materialize CSS
+ 
+React | Redux | React Native | Vue.js | Material UI | Tailwind CSS | Materialize CSS
 
 
 ### Backend
 
-Node.js | Express | Sequelize | MySQL | PostgresSQL | MongoDB | GraphQL
+Node.js | Spring Boot | Django | Flask | Express | Sequelize | MySQL | PostgresSQL | MongoDB | GraphQL
 
 
-### Other Tools
+### Cloud and Other Tools
 
-AWS | Heroku | Git | Arch Linux | Jest | Mocha | Chai | Sinon | Docker | Figma
+AWS | Azure | Heroku | Git | Arch Linux | Jest | Mocha | Chai | Sinon | Docker | Figma
 
 ### Spoken Languages
 
