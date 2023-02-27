@@ -3,18 +3,17 @@
 
 ### 🌱 I’m currently learning:
 
-- Software Architecture and Design Patterns
-
+- Rust programming language
 ## Techstack:
 
 ### Languages
 
-JavaScript | TypeScript | Python | Java  | HTML | CSS 
+JavaScript | TypeScript | Python | Rust | Java  | HTML | CSS 
 
 
 ### Frontend
  
-React | Redux | React Native | Vue.js | Material UI | Tailwind CSS | Materialize CSS
+React | WebComponents | StencilJs | Redux | React Native | Vue.js | Material UI | Tailwind CSS | Materialize CSS
 
 
 ### Backend
