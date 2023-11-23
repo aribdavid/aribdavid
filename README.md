@@ -9,7 +9,7 @@
 
 ### Languages
 
-[![JavaScript](https://example.com/javascript-icon.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png](https://example.com/javascript-icon.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://example.com/typescript-icon.png)](https://www.typescriptlang.org/)
 [![Python](https://example.com/python-icon.png)](https://www.python.org/)
 [![Rust](https://example.com/rust-icon.png)](https://www.rust-lang.org/)
