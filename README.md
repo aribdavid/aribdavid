@@ -9,9 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/aryehbraid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryehbraid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryeh-i-braid-david-770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryeh-i-braid-david-770" height="30" width="40" /></a>
- <a  href="mailto:aryehdavid.dev@gmail.com" target="_blank">
-   <img   align="center height="30" width="40" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/>
- </a>
+ <a href="mailto:aryehdavid.dev@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"" alt="aryeh-i-braid-david-770" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
