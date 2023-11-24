@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryeh</h1>
 <h3 align="center">A Software Developer from Brazil. My goal it's to solve problems using technology. Feel free to look into my projects or ask me anything!</h3>
 
-- 🌱 I’m currently learning **Rust**
+
+
+<h3 align="left">🌱 I’m currently learning **Rust**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
