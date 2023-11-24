@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryeh</h1>
 <h3 align="center">A Software Developer from Brazil 👋</h3>
-<h4 align="center>"My goal it's to solve problems using technology. Feel free to look into my projects or ask me anything!</h4>
 
+
+<h4 align="center>"My goal it's to solve problems using technology. Feel free to look into my projects or ask me anything!</h4>
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **aryehdavid.dev@gmail.com**
